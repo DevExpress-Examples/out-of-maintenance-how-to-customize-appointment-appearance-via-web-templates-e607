@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomAppointmentForm.cs](./CS/WebSite/App_Code/CustomAppointmentForm.cs) (VB: [CustomAppointmentForm.vb](./VB/WebSite/App_Code/CustomAppointmentForm.vb))
+* [XtraCars.sql](./CS/WebSite/App_Data/XtraCars.sql) (VB: [XtraCars.sql](./VB/WebSite/App_Data/XtraCars.sql))
+* [MyAppointmentForm.ascx](./CS/WebSite/CustomForms/MyAppointmentForm.ascx) (VB: [MyAppointmentForm.ascx.vb](./VB/WebSite/CustomForms/MyAppointmentForm.ascx.vb))
+* [MyAppointmentForm.ascx.cs](./CS/WebSite/CustomForms/MyAppointmentForm.ascx.cs) (VB: [MyAppointmentForm.ascx.vb](./VB/WebSite/CustomForms/MyAppointmentForm.ascx.vb))
+* [MyVerticalAppointment.ascx](./CS/WebSite/CustomForms/MyVerticalAppointment.ascx) (VB: [MyVerticalAppointment.ascx.vb](./VB/WebSite/CustomForms/MyVerticalAppointment.ascx.vb))
+* [MyVerticalAppointment.ascx.cs](./CS/WebSite/CustomForms/MyVerticalAppointment.ascx.cs) (VB: [MyVerticalAppointment.ascx.vb](./VB/WebSite/CustomForms/MyVerticalAppointment.ascx.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+<!-- default file list end -->
 # How to customize appointment appearance via web templates
 
 
